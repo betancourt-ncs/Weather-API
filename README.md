@@ -121,3 +121,6 @@ To verify a cached entry:
 ```bash
 redis-cli get "Miami"
 ```
+
+
+For more info visit https://roadmap.sh/projects/weather-api-wrapper-service
